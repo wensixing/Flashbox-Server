@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FlashGame icon="image/flashgame/219.png" id="219" name="樱木投篮">
+   <Description>樱木花道练投篮 小游戏说明：湘北和陵南的比赛在即，花道为了能够在比赛中有好的表现，吸引晴子的注意，卯足了劲的练习投篮. 操作方法：跳跃键起跳，投篮键投篮。</Description>
+   <ButtonBar position="left">
+                <Button keycode="SPACE" name="跳跃"/>
+            </ButtonBar>
+   <ButtonBar position="right">
+                <Button keycode="LEFT" name="投篮"/>
+            </ButtonBar>
+</FlashGame>

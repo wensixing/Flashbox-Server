@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FlashGame icon="image/flashgame/208.png" id="208" name="街霸降龙">
+   <Description>街霸降龙 小游戏说明：经典的街霸降龙，KEN，RYU，SAKURA，CAMMY和作者LM等5名角色对战。游戏默认进入超级模式，感受满屏波动拳带来的冲击。操作方法：WASD控制移动，U、I、J、K控制拳脚攻击。</Description>
+   <DPad position="left">
+                <Button keycode="W" name="W"/>
+                <Button keycode="A" name="A"/>
+                <Button keycode="D" name="D"/>
+                <Button keycode="S" name="S"/>
+            </DPad>
+   <ButtonBar position="right">
+                <Button keycode="U" name="U"/>
+                <Button keycode="I" name="I"/>
+                <Button keycode="J" name="J"/>
+                <Button keycode="K" name="K"/>
+            </ButtonBar>
+</FlashGame>

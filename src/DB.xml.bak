@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Database>
+    <Categories>
+        <Category id="5" name="热门推荐">
+            <FlashGame id="1"/>
+            <FlashGame id="2"/>
+        </Category>
+        <Category id="0" name="角色扮演">
+            <FlashGame id="3"/>
+        </Category>
+        <Category id="1" name="动作格斗"/>
+        <Category id="2" name="战争策略"/>
+        <Category id="3" name="体育赛车"/>
+        <Category id="4" name="休闲益智">
+            <FlashGame id="1"/>
+            <FlashGame id="2"/>
+            <FlashGame id="4"/>
+            <FlashGame id="5"/>
+            <FlashGame id="6"/>
+            <FlashGame id="7"/>
+            <FlashGame id="8"/>
+            <FlashGame id="9"/>
+            <FlashGame id="10"/>
+        </Category>
+    </Categories>
+    <FlashGames>
+        <FlashGame id="0" name="金庸群侠传3 加强版">
+            <Description>金庸群侠传3.加强版1.2，强烈推荐RPG游戏.</Description>
+        </FlashGame>
+        <FlashGame id="1" name="黄金矿工中文版">
+            <Description>按↓键来开始拉金子,红色的炸弹意思是拉到你不要的东西按“↑”键~就把你自己拉的那个东西炸掉黄色的瓶子上面有3个叉的是强力水，在回收绳子的时候速度稍快点，只在一局中生效上面有“ROCKS”的书，是说收集了石头的话，可以比平时卖的价钱要高！11块的小石头可以卖33块同样是一局中生效黄色的瓶子里的东西是钻石油，会使砖石升值，600的钻石会卖到900！也是一局中生效绿色的是幸运草，使用的话使幸运度提高，拉到“？”的袋子的话，可能变的很强壮，也可能得到以上某些物品，并且有时会连卖的石头价格都上升！
+            </Description>
+            <ButtonBar position="right">
+                <Button keycode="DOWN" name="↓：放钩子"/>
+                <Button keycode="UP" name="↑：丢炸弹"/>
+            </ButtonBar>
+        </FlashGame>
+        <FlashGame id="2" name="水果连连看">
+            <Description>水果连连看，水果商贩为了让客人能够更方便挑选水果，只好把水果分好类，你来帮帮他吧，把相同的水果放在一起就行了~是不是很容易呀。</Description>
+        </FlashGame>
+        <FlashGame id="3" name="魔塔 V1.1">
+            <Description>给大家带来一款魔塔20层，非常好玩的一个RPG游戏。游戏的剧情并不复杂，需要你去营救被魔王关在塔内的公主。此款魔塔游戏共有20层，每层都有怪物守卫，要想过关绝非易事。 </Description>
+            <DPad position="left">
+                <Button keycode="UP" name="上"/>
+                <Button keycode="LEFT" name="左"/>
+                <Button keycode="RIGHT" name="右"/>
+                <Button keycode="DOWN" name="下"/>
+            </DPad>
+            <ButtonBar position="left">
+                <Button keycode="S" name="S:保存"/>
+                <Button keycode="A" name="A:读取"/>
+                <Button keycode="R" name="R:重来"/>
+            </ButtonBar>
+            <ButtonBar position="right">
+                <Button keycode="8" name="8:向上选择"/>
+                <Button keycode="2" name="2:向下选择"/>
+                <Button keycode="SPACE" name="空格:确定"/>
+                <Button keycode="L" name="L:察看怪物"/>
+                <Button keycode="J" name="J:楼层传送"/>
+            </ButtonBar>
+        </FlashGame>
+        <FlashGame id="4" name="给兔子洗澡">
+            <Description>这是一款魅力型的Flash小游戏。宠物王国里的魔法兔很调皮，管理员每天都要给它们洗一次澡。因为兔子的数量太多，您需要帮助管理员为魔法兔洗澡。让它们一个个充满活力！ 操作方法：移动鼠标接触小兔子，鼠标左键抓取。
+            </Description>
+        </FlashGame>
+        <FlashGame id="5" name="弓箭手救小人3">
+            <Description>这是古代惩罚罪犯的一种工具，然而有时候统治阶级用这种工具来惩罚那些不屈服于他们的人，一些人触犯了统治者的权利就要受到惩罚，因此一些无辜的人们也会遭到绞刑，你的任务就是用弓箭来拯救这些无辜百姓...操作方法：鼠标单击弓箭射击（射断绳子），鼠标移动选择方向，鼠标拖动来蓄力！
+            </Description>
+        </FlashGame>
+        <FlashGame id="6" name="怪怪水族馆2">
+            <Description>养鱼赚钱小游戏，疯狂又可爱的养鱼游戏，全新而华丽的关卡，新增的生存模式及boss战，新增的不明怪物，更增加了n多种可爱又有用的宠物供你选择，游戏更稳定，更流畅，20多个各不相同的关卡，让你捡钱捡到手酸而乐此不疲，赶快进入游戏吧～
+            </Description>
+        </FlashGame>
+        <FlashGame id="7" name="接鸡蛋">
+            <Description>用你的智慧把鸡蛋放在筐里就算闯关成功，来看看谁玩儿的最多！</Description>
+        </FlashGame>
+        <FlashGame id="8" name="北京麻将">
+            <Description>很有特色的一款麻将小游戏，无论背景音乐还是卡通人物造型都很有特色，规则也不复杂，就是最大众的玩法。</Description>
+        </FlashGame>
+        <FlashGame id="9" name="经典黑杰克">
+            <Description>这款游戏适合那些熟悉黑杰克纸牌游戏的玩家，这是一款玩法经典的纸牌游戏，喜欢纸牌游戏的玩家来试试吧！</Description>
+        </FlashGame>
+        <FlashGame id="10" name="边城五子棋">
+            <Description>边城浪子制作的小游戏。你自问智利高人一等吗？来试试这个小巧的五子棋游戏吧。</Description>
+        </FlashGame>
+    </FlashGames>
+</Database>

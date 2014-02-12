@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FlashGame icon="image/flashgame/216.png" id="216" name="泡泡卡丁车">
+   <Description>小游戏说明：可爱的MM开着汽车在充满危险的公路上飚车，真是好刺激呀！操作方法：方向键左右控制卡丁车的左右方向，跳跃键跳跃。</Description>
+   <ButtonBar position="left">
+                <Button keycode="SPACE" name="跳跃"/>
+                <Button keycode="LEFT" name="左"/>
+            </ButtonBar>
+   <ButtonBar position="right">
+                <Button keycode="RIGHT" name="右"/>
+            </ButtonBar>
+</FlashGame>

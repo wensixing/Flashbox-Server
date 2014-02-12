@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" attributeFormDefault="unqualified">
+    <xs:element name="Categories">
+        <xs:complexType>
+            <xs:sequence minOccurs="0" maxOccurs="unbounded">
+                <xs:element name="Category" type="Category"/>
+            </xs:sequence>
+        </xs:complexType>
+        <xs:key name="Category_Id_Key">
+            <xs:selector xpath="Category"/>
+            <xs:field xpath="@id"/>
+        </xs:key>
+    </xs:element>
+    <xs:complexType name="Category">
+        <xs:attribute name="id" type="xs:integer" use="required"/>
+        <xs:attribute name="name" type="xs:string" use="required"/>
+    </xs:complexType>
+</xs:schema>

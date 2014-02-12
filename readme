@@ -1,0 +1,6 @@
+Reposity Directory Tree Specifications:
+/xml/categories.xml -- Categories list
+/xml/category/{ID}.xml -- Flash games of Category {ID}
+
+/image/category/{ID}.png -- Icon file of Category {ID}
+/image/flashgame/{ID}.png -- Icon file of Flash game {ID}

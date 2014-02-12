@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FlashGame icon="image/flashgame/11.png" id="11" name="地牢勇士">
+   <Description>类似魔塔的小游戏，勇士独闯黑暗地牢，快来和他一起战斗吧！操作方法：方向键控制人物的移动，回车键弹出物品栏，空格键选择物品，ESC键退出物品栏。</Description>
+   <DPad position="left">
+                <Button keycode="UP" name="上"/>
+                <Button keycode="LEFT" name="左"/>
+                <Button keycode="RIGHT" name="右"/>
+                <Button keycode="DOWN" name="下"/>
+            </DPad>
+   <ButtonBar position="left">
+                <Button keycode="ENTER" name="物品栏"/>
+                <Button keycode="SPACE" name="选择物品"/>
+            </ButtonBar>
+</FlashGame>

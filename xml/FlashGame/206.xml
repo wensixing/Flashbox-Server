@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FlashGame icon="image/flashgame/206.png" id="206" name="食心魔族中文版">
+   <Description>小游戏说明：食心魔族是一群专门以人的心脏为食物的魔鬼，他们可以利用自身锋利的爪子直接掏出人的心脏。游戏中你将扮演一名食心魔鬼，攻击人类。很新鲜吧，那就赶紧来玩玩看吧！操作方法：键盘方向键控制移动，攻击键攻击男人，挖心键掏食被绑住女人的心脏，收集到足够的心脏即可过关.
+         </Description>
+   <DPad position="left">
+                <Button keycode="UP" name="上"/>
+                <Button keycode="LEFT" name="左"/>
+                <Button keycode="RIGHT" name="右"/>
+                <Button keycode="DOWN" name="下"/>
+            </DPad>
+   <ButtonBar position="right">
+                <Button keycode="SPACE" name="攻击"/>
+                <Button keycode="R" name="挖心"/>
+            </ButtonBar>
+</FlashGame>

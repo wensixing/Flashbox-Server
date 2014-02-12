@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FlashGame icon="image/flashgame/223.png" id="223" name="三国英雄传">
+   <Description>小游戏说明：三国群英传，是花落无声《三国》的加强版本，修正了很多东西。不过操作感和数据设计上还有待提升。总体感觉还是不错。提示：游戏文件较大，请耐心等候载入。操作方法：键盘方向键控制行走，Z攻击1，X攻击2，W任务状态，E任务背包，R任务查看，T系统设置，Q游戏帮助。</Description>
+   <DPad position="left">
+                <Button keycode="UP" name="上"/>
+                <Button keycode="LEFT" name="左"/>
+                <Button keycode="RIGHT" name="右"/>
+                <Button keycode="DOWN" name="下"/>
+            </DPad>
+   <ButtonBar position="right">
+                <Button keycode="Z" name="攻击1"/>
+                <Button keycode="X" name="攻击2"/>
+                <Button keycode="W" name="任务状态"/>
+                <Button keycode="E" name="任务背包"/>
+                <Button keycode="R" name="任务查看"/>
+            </ButtonBar>
+   <ButtonBar position="left">
+                <Button keycode="T" name="系统设置"/>
+                <Button keycode="Q" name="游戏帮助"/>
+            </ButtonBar>
+</FlashGame>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FlashGame icon="image/flashgame/214.png" id="214" name="极速V客">
+   <Description>小游戏说明：极速V客游戏由玩家驾驶凯迪拉克六款车型中任意一款，在游戏中体验贴近气流的速度快感；游戏分为上海、北京及珠海三个赛道，各赛道全长、最长直道、弯道数量、赛道宽度、最高时速设计均实现在游戏中，等待您亲身体验极致震撼表现！操作方法：方向键控制赛车，跑完三圈系统将综合您三圈的总成绩和单圈最佳成绩，产生您本次挑战的最终成绩，进行排名，参与抽奖。您可通过“上下左右”键控制赛车。
+         </Description>
+   <ButtonBar position="left">
+                <Button keycode="LEFT" name="左"/>
+                <Button keycode="UP" name="加速"/>
+            </ButtonBar>
+   <ButtonBar position="right">
+                <Button keycode="RIGHT" name="右"/>
+                <Button keycode="DOWN" name="减速"/>
+            </ButtonBar>
+</FlashGame>

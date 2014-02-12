@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FlashGame icon="image/flashgame/212.png" id="212" name="超级玛丽完美版">
+   <Description> 小游戏说明：超级玛丽经典版本，喜欢超级玛丽的朋友一定不能错过喔！ 操作方法：键盘方向键控制移动。</Description>
+   <DPad position="left">
+                <Button keycode="UP" name="上"/>
+                <Button keycode="LEFT" name="左"/>
+                <Button keycode="RIGHT" name="右"/>
+                <Button keycode="DOWN" name="下"/>
+            </DPad>
+   <ButtonBar position="left">
+                <Button keycode="SPACE" name="子弹攻击"/>
+            </ButtonBar>
+</FlashGame>

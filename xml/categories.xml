@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Categories>
+   <Category id="5" name="热门推荐"/>
+   <Category id="0" name="角色扮演"/>
+   <Category id="1" name="动作格斗"/>
+   <Category id="3" name="体育赛车"/>
+   <Category id="2" name="战争策略"/>
+   <Category id="4" name="休闲益智"/>
+</Categories>

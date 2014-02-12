@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FlashGame icon="image/flashgame/1.png" id="1" name="黄金矿工中文版">
+   <Description>按↓键来开始拉金子,红色的炸弹意思是拉到你不要的东西按“↑”键~就把你自己拉的那个东西炸掉黄色的瓶子上面有3个叉的是强力水，在回收绳子的时候速度稍快点，只在一局中生效上面有“ROCKS”的书，是说收集了石头的话，可以比平时卖的价钱要高！11块的小石头可以卖33块同样是一局中生效黄色的瓶子里的东西是钻石油，会使砖石升值，600的钻石会卖到900！也是一局中生效绿色的是幸运草，使用的话使幸运度提高，拉到“？”的袋子的话，可能变的很强壮，也可能得到以上某些物品，并且有时会连卖的石头价格都上升！
+            </Description>
+   <ButtonBar position="right">
+                <Button keycode="DOWN" name="↓：放钩子"/>
+                <Button keycode="UP" name="↑：丢炸弹"/>
+            </ButtonBar>
+</FlashGame>

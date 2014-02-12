@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FlashGame icon="image/flashgame/215.png" id="215" name="极速越野">
+   <Description>小游戏说明：极限越野，游戏画面与操控性具佳的越野车游戏。游戏中不仅包含了摩托、滑板、沙滩车等各种极限运动赛事，而且随着游戏的进行可以不断解锁新的关卡及模式，赶快来挑战吧！操作方法：方向键上加速，方向键下减速度，方向键左右控制摩托的平衡，跳跃键跳跃，增压键涡轮增压，地图键开关小地图。游戏有摩托车杯赛，滑板车杯赛，沙滩车杯赛，大脚车杯赛和综合杯赛，赛事又分简单，普通和困难模式...
+        </Description>
+   <DPad position="left">
+                <Button keycode="UP" name="上"/>
+                <Button keycode="LEFT" name="左"/>
+                <Button keycode="RIGHT" name="右"/>
+                <Button keycode="DOWN" name="下"/>
+            </DPad>
+   <ButtonBar position="right">
+                <Button keycode="SPACE" name="跳跃"/>
+                <Button keycode="Z" name="增压"/>
+                <Button keycode="M" name="地图"/>
+            </ButtonBar>
+</FlashGame>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FlashGame icon="image/flashgame/225.png" id="225" name="银河坦克大战">
+   <Description> 小游戏说明：在银河系中的一颗战斗星球上，有着一群智能坦克机器,它们互为两派，常常会有纠纷，于是常常是炮声隆隆，硝烟四起，但是到底那一方最后能够成为最后的赢家呢？还要靠你来决定了。 操作方法：方向键左右控制移动，方向键上下控制调节角度，攻击键发射。</Description>
+   <DPad position="left">
+                <Button keycode="UP" name="上"/>
+                <Button keycode="LEFT" name="左"/>
+                <Button keycode="RIGHT" name="右"/>
+                <Button keycode="DOWN" name="下"/>
+            </DPad>
+   <ButtonBar position="right">
+                <Button keycode="SPACE" name="攻击"/>
+            </ButtonBar>
+</FlashGame>

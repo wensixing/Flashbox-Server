@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Database>
+    <Categories>
+        <Category id="5" name="热门推荐">
+            <FlashGame id="1"/>
+            <FlashGame id="2"/>
+            <FlashGame id="3"/>
+            <FlashGame id="223"/>
+            <FlashGame id="6"/>
+        </Category>
+        <Category id="0" name="角色扮演">
+            <FlashGame id="3"/>
+            <FlashGame id="11"/>
+        </Category>
+        <Category id="1" name="动作格斗">
+            <!--<FlashGame id="200"/>-->
+            <FlashGame id="201"/>
+            <!--<FlashGame id="202"/>-->
+            <FlashGame id="203"/>
+            <FlashGame id="204"/>
+            <!--<FlashGame id="205"/>-->
+            <FlashGame id="206"/>
+            <FlashGame id="208"/>
+        </Category>
+        <Category id="3" name="体育赛车">
+            <!--<FlashGame id="210"/>-->
+            <!--<FlashGame id="211"/>-->
+            <FlashGame id="212"/>
+            <!--<FlashGame id="213"/>-->
+            <FlashGame id="214"/>
+            <FlashGame id="215"/>
+            <FlashGame id="216"/>
+            <!--<FlashGame id="217"/>-->
+            <!--<FlashGame id="218"/>-->
+            <FlashGame id="219"/>
+        </Category>
+        <Category id="2" name="战争策略">
+            <FlashGame id="220"/>
+            <!--<FlashGame id="221"/>-->
+            <FlashGame id="222"/>
+            <FlashGame id="223"/>
+            <!--<FlashGame id="224"/>-->
+            <FlashGame id="225"/>
+            <!--<FlashGame id="226"/>
+            <FlashGame id="227"/>
+            <FlashGame id="228"/>
+            <FlashGame id="229"/>-->
+        </Category>
+        <Category id="4" name="休闲益智">
+            <FlashGame id="1"/>
+            <FlashGame id="2"/>
+            <FlashGame id="5"/>
+            <FlashGame id="6"/>
+            <FlashGame id="7"/>
+            <FlashGame id="8"/>
+            <!--<FlashGame id="9"/>-->
+            <FlashGame id="10"/>
+            <FlashGame id="4"/>
+        </Category>
+    </Categories>
+    <FlashGames>
+        <!--
+        <FlashGame id="0" name="金庸群侠传3 加强版">
+            <Description>金庸群侠传3.加强版1.2，强烈推荐RPG游戏.</Description>
+        </FlashGame>
+        -->
+        <FlashGame id="1" name="黄金矿工中文版">
+            <Description>按↓键来开始拉金子,红色的炸弹意思是拉到你不要的东西按“↑”键~就把你自己拉的那个东西炸掉黄色的瓶子上面有3个叉的是强力水，在回收绳子的时候速度稍快点，只在一局中生效上面有“ROCKS”的书，是说收集了石头的话，可以比平时卖的价钱要高！11块的小石头可以卖33块同样是一局中生效黄色的瓶子里的东西是钻石油，会使砖石升值，600的钻石会卖到900！也是一局中生效绿色的是幸运草，使用的话使幸运度提高，拉到“？”的袋子的话，可能变的很强壮，也可能得到以上某些物品，并且有时会连卖的石头价格都上升！
+            </Description>
+            <ButtonBar position="right">
+                <Button keycode="DOWN" name="↓：放钩子"/>
+                <Button keycode="UP" name="↑：丢炸弹"/>
+            </ButtonBar>
+        </FlashGame>
+        <FlashGame id="2" name="水果连连看">
+            <Description>水果连连看，水果商贩为了让客人能够更方便挑选水果，只好把水果分好类，你来帮帮他吧，把相同的水果放在一起就行了~是不是很容易呀。</Description>
+        </FlashGame>
+        <FlashGame id="3" name="魔塔 V1.1">
+            <Description>给大家带来一款魔塔20层，非常好玩的一个RPG游戏。游戏的剧情并不复杂，需要你去营救被魔王关在塔内的公主。此款魔塔游戏共有20层，每层都有怪物守卫，要想过关绝非易事。 </Description>
+            <DPad position="left">
+                <Button keycode="UP" name="上"/>
+                <Button keycode="LEFT" name="左"/>
+                <Button keycode="RIGHT" name="右"/>
+                <Button keycode="DOWN" name="下"/>
+            </DPad>
+            <ButtonBar position="left">
+                <Button keycode="S" name="S:保存"/>
+                <Button keycode="A" name="A:读取"/>
+                <Button keycode="R" name="R:重来"/>
+            </ButtonBar>
+            <ButtonBar position="right">
+                <Button keycode="8" name="8:向上选择"/>
+                <Button keycode="2" name="2:向下选择"/>
+                <Button keycode="SPACE" name="空格:确定"/>
+                <Button keycode="L" name="L:察看怪物"/>
+                <Button keycode="J" name="J:楼层传送"/>
+            </ButtonBar>
+        </FlashGame>
+        <FlashGame id="4" name="给兔子洗澡">
+            <Description>这是一款魅力型的Flash小游戏。宠物王国里的魔法兔很调皮，管理员每天都要给它们洗一次澡。因为兔子的数量太多，您需要帮助管理员为魔法兔洗澡。让它们一个个充满活力！ 操作方法：移动鼠标接触小兔子，鼠标左键抓取。
+            </Description>
+        </FlashGame>
+        <FlashGame id="5" name="弓箭手救小人3">
+            <Description>这是古代惩罚罪犯的一种工具，然而有时候统治阶级用这种工具来惩罚那些不屈服于他们的人，一些人触犯了统治者的权利就要受到惩罚，因此一些无辜的人们也会遭到绞刑，你的任务就是用弓箭来拯救这些无辜百姓...操作方法：鼠标单击弓箭射击（射断绳子），鼠标移动选择方向，鼠标拖动来蓄力！
+            </Description>
+        </FlashGame>
+        <FlashGame id="6" name="怪怪水族馆2">
+            <Description>养鱼赚钱小游戏，疯狂又可爱的养鱼游戏，全新而华丽的关卡，新增的生存模式及boss战，新增的不明怪物，更增加了n多种可爱又有用的宠物供你选择，游戏更稳定，更流畅，20多个各不相同的关卡，让你捡钱捡到手酸而乐此不疲，赶快进入游戏吧～
+            </Description>
+        </FlashGame>
+        <FlashGame id="7" name="接鸡蛋">
+            <Description>用你的智慧把鸡蛋放在筐里就算闯关成功，来看看谁玩儿的最多！</Description>
+        </FlashGame>
+        <FlashGame id="8" name="北京麻将">
+            <Description>很有特色的一款麻将小游戏，无论背景音乐还是卡通人物造型都很有特色，规则也不复杂，就是最大众的玩法。</Description>
+        </FlashGame>
+        <!--
+        <FlashGame id="9" name="经典黑杰克">
+            <Description>这款游戏适合那些熟悉黑杰克纸牌游戏的玩家，这是一款玩法经典的纸牌游戏，喜欢纸牌游戏的玩家来试试吧！</Description>
+        </FlashGame>
+        -->
+        <FlashGame id="10" name="边城五子棋">
+            <Description>边城浪子制作的小游戏。你自问智利高人一等吗？来试试这个小巧的五子棋游戏吧。</Description>
+        </FlashGame>
+        <FlashGame id="11" name="地牢勇士">
+            <Description>类似魔塔的小游戏，勇士独闯黑暗地牢，快来和他一起战斗吧！操作方法：方向键控制人物的移动，回车键弹出物品栏，空格键选择物品，ESC键退出物品栏。</Description>
+            <DPad position="left">
+                <Button keycode="UP" name="上"/>
+                <Button keycode="LEFT" name="左"/>
+                <Button keycode="RIGHT" name="右"/>
+                <Button keycode="DOWN" name="下"/>
+            </DPad>
+            <ButtonBar position="left">
+                <Button keycode="ENTER" name="物品栏"/>
+                <Button keycode="SPACE" name="选择物品"/>
+            </ButtonBar>
+        </FlashGame>
+        <!--
+        <FlashGame id="200" name="白鲸的复仇">
+            <Description>
+            小游戏说明：长欺生活在大海里的白鲸，它不光吃只海底里海洋生物，偶而也会浮出水面破坏人类生活的哦，现在你就控制一条白鲸的日常生活，吃海洋生物，破坏人类.... 操作方法：游戏使用触屏操作，移动控制白鲸运动。
+        </Description>	
+        </FlashGame>
+        -->
+        <FlashGame id="201" name="VR特警火柴人版">
+            <Description>小游戏说明：一款火柴人射击游戏，你的目标是击倒你前面的所有敌人，瞄准敌人的头部一松击中，趁敌人倒下的时候加满子弹。游戏难度有提高，但是非常爽快。操作方法：弹药键加子弹，触屏移动控制方向，触屏射击。</Description>
+            <ButtonBar position="left">
+                <Button keycode="SPACE" name="弹药"/>
+            </ButtonBar>
+        </FlashGame>
+        <!--
+        <FlashGame id="202" name="海盗猎人">
+            <Description>小游戏说明：一个发生索马里海域的故事，海盗们遇到了他们的天敌-海盗猎人。故事正在上演。 操作方法：WASD控制行走，J键远攻，L键近攻，K键跳跃躲避</Description>		
+            <DPad position="left">
+                <Button keycode="W" name="W"/>
+                <Button keycode="A" name="A"/>
+                <Button keycode="D" name="D"/>
+                <Button keycode="S" name="S"/>
+            </DPad>
+            <ButtonBar position="right">
+                <Button keycode="J" name="J:远攻"/>
+                <Button keycode="L" name="L:近攻"/>
+                <Button keycode="K" name="K:跳跃"/>
+		    </ButtonBar>
+        </FlashGame>
+        -->
+        <FlashGame id="203" name="火柴人演示动画">
+            <Description>火柴人动画，看看</Description>
+        </FlashGame>
+        <FlashGame id="204" name="老鼠剑客">
+            <Description> 老鼠剑客 小游戏说明：老鼠剑客是根据电影《纳尼亚传奇》而改编的一款冒险小游戏>    。游戏中主角是一只小老鼠，这可不是一只普通的老鼠，它可是一名英勇的剑客。它要冲入丛林，消灭所有的敌人。操作方法：根据上方的图案提示，使用触屏画出相应的图案进行攻击和冒险。
+        </Description>
+        </FlashGame>
+        <!--
+        <FlashGame id="205" name="屠龙小勇士">
+            <Description>屠龙小勇士 小游戏说明：神秘的天空国度，来了一群邪恶的飞龙，一个勇敢的勇士，直面邪恶的飞龙，大胆的消灭它们，保卫国度。邪恶飞龙的弱点在于它身体的关节，将其所有的紫色关节破坏变成蓝色即可消灭飞龙。操作方法：WASD/键盘方向键控制移动和攻击方向，攻击键攻击（要攻击关节处）。
+        </Description> 
+            <DPad position="left">
+                <Button keycode="W" name="W"/>
+                <Button keycode="A" name="A"/>
+                <Button keycode="D" name="D"/>
+                <Button keycode="S" name="S"/>
+            </DPad>
+            <ButtonBar position="right">
+                <Button keycode="SPACE" name="攻击"/>
+            </ButtonBar>
+        </FlashGame>
+        -->
+        <FlashGame id="206" name="食心魔族中文版">
+            <Description>小游戏说明：食心魔族是一群专门以人的心脏为食物的魔鬼，他们可以利用自身锋利的爪子直接掏出人的心脏。游戏中你将扮演一名食心魔鬼，攻击人类。很新鲜吧，那就赶紧来玩玩看吧！操作方法：键盘方向键控制移动，攻击键攻击男人，挖心键掏食被绑住女人的心脏，收集到足够的心脏即可过关.
+         </Description>
+            <DPad position="left">
+                <Button keycode="UP" name="上"/>
+                <Button keycode="LEFT" name="左"/>
+                <Button keycode="RIGHT" name="右"/>
+                <Button keycode="DOWN" name="下"/>
+            </DPad>
+            <ButtonBar position="right">
+                <Button keycode="SPACE" name="攻击"/>
+                <Button keycode="R" name="挖心"/>
+            </ButtonBar>
+        </FlashGame>
+        <FlashGame id="208" name="街霸降龙">
+            <Description>街霸降龙 小游戏说明：经典的街霸降龙，KEN，RYU，SAKURA，CAMMY和作者LM等5名角色对战。游戏默认进入超级模式，感受满屏波动拳带来的冲击。操作方法：WASD控制移动，U、I、J、K控制拳脚攻击。</Description>
+            <DPad position="left">
+                <Button keycode="W" name="W"/>
+                <Button keycode="A" name="A"/>
+                <Button keycode="D" name="D"/>
+                <Button keycode="S" name="S"/>
+            </DPad>
+            <ButtonBar position="right">
+                <Button keycode="U" name="U"/>
+                <Button keycode="I" name="I"/>
+                <Button keycode="J" name="J"/>
+                <Button keycode="K" name="K"/>
+            </ButtonBar>
+        </FlashGame>
+        <!--
+        <FlashGame id="210" name="超级玛丽赛车">
+            <Description>小游戏说明：超级玛丽的赛车小游戏，你可以选择超级玛丽游戏中的玛丽奥或怪兽与其他对手进行比赛。操作方法：WASD控制赛车的移动和跳跃，吃到道具后按道具键使用.</Description>
+            <DPad position="left">
+                <Button keycode="W" name="W"/>
+                <Button keycode="A" name="A"/>
+                <Button keycode="D" name="D"/>
+                <Button keycode="S" name="S"/>
+            </DPad>
+            <ButtonBar position="right">
+                <Button keycode="SPACE" name="道具"/>
+            </ButtonBar>
+        </FlashGame>
+        -->
+        <!--
+        <FlashGame id="211" name="超级野蛮足球">
+            <Description>
+            小游戏说明：监狱里的足球比赛可以说是世界上最野蛮的体育赛事。这些平日里闲得无聊的囚犯们，每一个都是杀人不眨眼的主，他们玩的根本不是足球，他们玩的是暴利和血腥。操作方法：键盘方向键控制移动，传球/射门。
+            </Description>
+            <DPad position="left">
+                <Button keycode="UP" name="上"/>
+                <Button keycode="LEFT" name="左"/>
+                <Button keycode="RIGHT" name="右"/>
+                <Button keycode="DOWN" name="下"/>
+            </DPad>
+            <ButtonBar position="right">
+                <Button keycode="SHIFT" name="传球/射门"/>
+            </ButtonBar>
+        </FlashGame>
+        -->
+        <FlashGame id="212" name="超级玛丽完美版">
+            <Description> 小游戏说明：超级玛丽经典版本，喜欢超级玛丽的朋友一定不能错过喔！ 操作方法：键盘方向键控制移动。</Description>
+            <DPad position="left">
+                <Button keycode="UP" name="上"/>
+                <Button keycode="LEFT" name="左"/>
+                <Button keycode="RIGHT" name="右"/>
+                <Button keycode="DOWN" name="下"/>
+            </DPad>
+            <ButtonBar position="left">
+                <Button keycode="SPACE" name="子弹攻击"/>
+            </ButtonBar>
+        </FlashGame>
+        <!--
+        <FlashGame id="213" name="疯狂过山车">
+            <Description>小游戏说明：一款制作精良的画线类益智游戏。你需要给过山车画出行进>    路线，途中只要收集到所有金币后就可过关，收集技巧硬币可获得金星，试试看吧!操作方法：用鼠标画出起点与终点之间的线路，然后点击播放即可，要灵活使用画面下方的各种轨道，它们可以帮你完成关卡。</Description>
+        </FlashGame>
+        -->
+        <FlashGame id="214" name="极速V客">
+            <Description>小游戏说明：极速V客游戏由玩家驾驶凯迪拉克六款车型中任意一款，在游戏中体验贴近气流的速度快感；游戏分为上海、北京及珠海三个赛道，各赛道全长、最长直道、弯道数量、赛道宽度、最高时速设计均实现在游戏中，等待您亲身体验极致震撼表现！操作方法：方向键控制赛车，跑完三圈系统将综合您三圈的总成绩和单圈最佳成绩，产生您本次挑战的最终成绩，进行排名，参与抽奖。您可通过“上下左右”键控制赛车。
+         </Description>
+            <ButtonBar position="left">
+                <Button keycode="LEFT" name="左"/>
+                <Button keycode="UP" name="加速"/>
+            </ButtonBar>
+            <ButtonBar position="right">
+                <Button keycode="RIGHT" name="右"/>
+                <Button keycode="DOWN" name="减速"/>
+            </ButtonBar>
+        </FlashGame>
+        <FlashGame id="215" name="极速越野">
+            <Description>小游戏说明：极限越野，游戏画面与操控性具佳的越野车游戏。游戏中不仅包含了摩托、滑板、沙滩车等各种极限运动赛事，而且随着游戏的进行可以不断解锁新的关卡及模式，赶快来挑战吧！操作方法：方向键上加速，方向键下减速度，方向键左右控制摩托的平衡，跳跃键跳跃，增压键涡轮增压，地图键开关小地图。游戏有摩托车杯赛，滑板车杯赛，沙滩车杯赛，大脚车杯赛和综合杯赛，赛事又分简单，普通和困难模式...
+        </Description>
+            <DPad position="left">
+                <Button keycode="UP" name="上"/>
+                <Button keycode="LEFT" name="左"/>
+                <Button keycode="RIGHT" name="右"/>
+                <Button keycode="DOWN" name="下"/>
+            </DPad>
+            <ButtonBar position="right">
+                <Button keycode="SPACE" name="跳跃"/>
+                <Button keycode="Z" name="增压"/>
+                <Button keycode="M" name="地图"/>
+            </ButtonBar>
+        </FlashGame>
+        <FlashGame id="216" name="泡泡卡丁车">
+            <Description>小游戏说明：可爱的MM开着汽车在充满危险的公路上飚车，真是好刺激呀！操作方法：方向键左右控制卡丁车的左右方向，跳跃键跳跃。</Description>
+            <ButtonBar position="left">
+                <Button keycode="SPACE" name="跳跃"/>
+                <Button keycode="LEFT" name="左"/>
+            </ButtonBar>
+            <ButtonBar position="right">
+                <Button keycode="RIGHT" name="右"/>
+            </ButtonBar>
+        </FlashGame>
+        <!--
+        <FlashGame id="217" name="赛车台阶越野">
+            <Description>小游戏说明：平地、山野越野玩多了，这次来玩台阶越野吧~操作方法：方向键W向前行驶，方向键AD左右行驶，方向键S刹车。举起双手,增加氧化亚氮。</Description> 
+            <DPad position="left">
+                <Button keycode="W" name="W"/>
+                <Button keycode="A" name="A"/>
+                <Button keycode="D" name="D"/>
+                <Button keycode="S" name="S"/>
+            </DPad>
+            <ButtonBar position="right">
+                <Button keycode="M" name="举起双手"/>
+                <Button keycode="N" name="氮气加速"/>
+            </ButtonBar>
+        </FlashGame>
+        -->
+        <!--
+        <FlashGame id="218" name="台球大师">
+            <Description>小游戏说明：你是一个台球爱好者吗？如果你喜欢台球那就请赶紧加入游戏吧！操作方法：触屏控制球杆的转动，触屏单击加力气，松开触屏将白球打出。游戏结束后点击右下角的MENU按钮返回。</Description>
+        </FlashGame>
+        -->
+        <FlashGame id="219" name="樱木投篮">
+            <Description>樱木花道练投篮 小游戏说明：湘北和陵南的比赛在即，花道为了能够在比赛中有好的表现，吸引晴子的注意，卯足了劲的练习投篮. 操作方法：跳跃键起跳，投篮键投篮。</Description>
+            <ButtonBar position="left">
+                <Button keycode="SPACE" name="跳跃"/>
+            </ButtonBar>
+            <ButtonBar position="right">
+                <Button keycode="LEFT" name="投篮"/>
+            </ButtonBar>
+        </FlashGame>
+        <FlashGame id="220" name="盗版三国志">
+            <Description>小游戏说明：《盗版三国志》以三国时期背景为蓝本，经过胡编乱造的大改革后，战乱中的各个英雄得以同时登场。另外《盗版三国志》故事背景虚构为魏、蜀、吴三方已各自自立为王，同时还夹杂一些周边势力，如董卓、袁绍之流。 游戏的目的是，玩家作为刘备一方，在数十年间统一全国即为游戏结束。至于游戏过程，玩家不但要勤修内政遵纪守法爱民如子，还要招纳贤良招兵买马富国强兵....这里的周边势力可不是傻子，你要是令他们不爽，他们就会接二连三的攻打你，如果你要是一味的穷兵黩武整日和别人打打杀杀，那么你的大本营可是随时会有暴乱发生...操作方法：鼠标操作。在游戏里的游戏菜单选项之类很少，全部功能都需要靠任命相应官员才能执行，只有几个主要的命令做成了令牌形态，是因为比较常用。其他的，需要任命官员后，点击官员形象方可执行。
+        </Description> 
+        </FlashGame>
+        <!--
+        <FlashGame id="221" name="机动步兵团">
+            <Description>小游戏说明：机动步兵团第二部来了，游戏画面更加精美，武器选择也更多了！这是类似于百战天虫的一款对战游戏。选择人物和地图，然后疯狂的轰炸对方。大家来对战吧！操作方法：方向键左右控制左右，方向键上控制跳跃，1234选择武器，发射键放射武器，切换键切换人物。
+        </Description>
+            <DPad position="left">
+                <Button keycode="UP" name="上"/>
+                <Button keycode="LEFT" name="左"/>
+                <Button keycode="RIGHT" name="右"/>
+            </DPad>
+            <ButtonBar position="right">
+                <Button keycode="1" name="1"/>
+                <Button keycode="2" name="2"/>
+                <Button keycode="3" name="3"/>
+                <Button keycode="4" name="4"/>
+            </ButtonBar>
+            <ButtonBar position="left">
+                <Button keycode="SPACE" name="发射"/>
+                <Button keycode="S" name="切换"/>
+            </ButtonBar>
+        </FlashGame>
+        -->
+        <FlashGame id="222" name="雷电X复刻版">
+            <Description>这是一款制作精良的雷电改编游戏，游戏中你驾驶战机展开一系列的空战，你的身手是你成功的关键，游戏的画面和音乐都是上乘，手感也不错。操作方法：方向键控制战斗机的飞行，发射键发射子弹，技能键技能攻击(数量有限)。确认暂停</Description>        
+            <DPad position="left">
+                <Button keycode="UP" name="上"/>
+                <Button keycode="LEFT" name="左"/>
+                <Button keycode="RIGHT" name="右"/>
+                <Button keycode="DOWN" name="下"/>
+            </DPad> 
+            <ButtonBar position="right"> 
+                <Button keycode="Z" name="发射"/>
+                <Button keycode="X" name="技能"/>
+                <Button keycode="ENTER" name="确认"/>
+                <Button keycode="SPACE" name="暂停"/>
+            </ButtonBar>
+        </FlashGame>
+        <FlashGame id="223" name="三国英雄传">
+            <Description>小游戏说明：三国群英传，是花落无声《三国》的加强版本，修正了很多东西。不过操作感和数据设计上还有待提升。总体感觉还是不错。提示：游戏文件较大，请耐心等候载入。操作方法：键盘方向键控制行走，Z攻击1，X攻击2，W任务状态，E任务背包，R任务查看，T系统设置，Q游戏帮助。</Description>
+            <DPad position="left">
+                <Button keycode="UP" name="上"/>
+                <Button keycode="LEFT" name="左"/>
+                <Button keycode="RIGHT" name="右"/>
+                <Button keycode="DOWN" name="下"/>
+            </DPad>
+            <ButtonBar position="right">
+                <Button keycode="Z" name="攻击1"/>
+                <Button keycode="X" name="攻击2"/>
+                <Button keycode="W" name="任务状态"/>
+                <Button keycode="E" name="任务背包"/>
+                <Button keycode="R" name="任务查看"/>
+            </ButtonBar>
+            <ButtonBar position="left">
+                <Button keycode="T" name="系统设置"/>
+                <Button keycode="Q" name="游戏帮助"/>
+            </ButtonBar>
+        </FlashGame>
+        <!--
+        <FlashGame id="224" name="特种任务">
+            <Description> 特种士兵接到总部的命令，要秘密潜入到敌军的研究所里找到制作毒气弹的样本... 操作方法：WSAD控制上下左右，射击，跳跃，手雷。</Description>
+            <DPad position="left">
+                <Button keycode="W" name="W"/>
+                <Button keycode="A" name="A"/>
+                <Button keycode="D" name="D"/>
+                <Button keycode="S" name="S"/>
+            </DPad>
+            <ButtonBar position="right">
+                <Button keycode="J" name="射击"/>
+                <Button keycode="K" name="跳跃"/>
+                <Button keycode="L" name="手雷"/> 
+            </ButtonBar>
+        </FlashGame>
+        -->
+        <FlashGame id="225" name="银河坦克大战">
+            <Description> 小游戏说明：在银河系中的一颗战斗星球上，有着一群智能坦克机器,它们互为两派，常常会有纠纷，于是常常是炮声隆隆，硝烟四起，但是到底那一方最后能够成为最后的赢家呢？还要靠你来决定了。 操作方法：方向键左右控制移动，方向键上下控制调节角度，攻击键发射。</Description>
+            <DPad position="left">
+                <Button keycode="UP" name="上"/>
+                <Button keycode="LEFT" name="左"/>
+                <Button keycode="RIGHT" name="右"/>
+                <Button keycode="DOWN" name="下"/>
+            </DPad>
+            <ButtonBar position="right">
+                <Button keycode="SPACE" name= "攻击"/>
+            </ButtonBar>
+        </FlashGame>
+        <!--
+        <FlashGame id="226" name="战地1944">
+            <Description>经典战争游戏，玩家只需用鼠标操作点击招募合适的兵种到战场上，要注意游戏资源系统里的剩馀资源点数和制造兵种的冷却时间，游戏中资源点数会不断增加，另外作战中还可以使用技能或请求友军支援，随着战争的进行，可以升级获得的技能点数，来升级兵种的技能和友军支援方式，点击战场上的兵种，即可点击左下角技能栏中的相应技能来使用，最终佔领对方的领土后即可获胜。游戏中一共有9张地图，正常过关后，玩家还可以自定制战役，设置难度、可使用兵种，甚至起始资源点数，相当过瘾。 游戏开始：点击 NEW CAMPAIGN -> ACCEPT ，然后选择阵营，左边为美军，右边为德军，然后点击OK，再点击 LAUNCH BATTLE 即可开始游戏。操作方法：鼠标操作，点击图标制造士兵.</Description>
+        </FlashGame>
+        -->
+        <!--
+        <FlashGame id="227" name="战争进化史">
+            <Description>一款原始人的战争守城。从蛮荒时代，到现代武器，到未来战士，你指挥你的军队买兵买武器守卫领土，进化，升级，直到摧毁敌人的堡垒！　操作方法：鼠标操作，右上角买兵买武器，左边的上边是钱，下边是点数，赚到足够的点数按星星可以升级，每次升级都会有新的兵种武器，连你的城也越来越漂亮！但是敌人也会越强大。Special是特殊天灾攻击，用完一次后需时恢复，但威力蛮大的。很耐玩的战略游戏，建议选择中或难来玩比较过瘾！</Description>
+        </FlashGame>
+        -->
+        <!--
+        <FlashGame id="228" name=" 植物大战甲虫">
+        <Description>小游戏说明：邪恶的甲虫想要入侵你的花园吞噬你那些美丽的花朵。为了阻止甲虫的进攻，你发明了一些植物形状的防御设备，但是这些设备必须要利用植物的能量，所以你首先要种植一些植物来储存能量。该款游戏可以说是植物大战僵尸的TD版本，游戏的画面十分精致，可玩性极强，强烈推荐给大家。操作方法：鼠标点击右侧的花朵按钮种植植物，点击左侧的工具按钮建立防御措施</Description>
+        </FlashGame>
+        -->
+        <!--
+        <FlashGame id="229" name="疯狂狙击">
+            <Description>战斗机在去太空探险时，遇到众多袭击的敌人，你能控制战斗机从困境中突围吗？快来挑战一下吧！操作方法：暂停游戏，方向键控制战斗机运动，射击，投放炸弹，退出游戏，关闭或开启音乐。</Description>
+            <DPad position="left">
+                <Button keycode="UP" name="上"/>
+                <Button keycode="LEFT" name="左"/>
+                <Button keycode="RIGHT" name="右"/>
+                <Button keycode="DOWN" name="下"/>
+            </DPad>
+            <ButtonBar position="right">
+                <Button keycode="S" name="射击"/>
+                <Button keycode="D" name="炸弹"/>
+                <Button keycode="SPACE" name="暂停"/>
+                <Button keycode="M" name="音乐"/>
+            </ButtonBar>
+            <ButtonBar position="left">
+                <Button keycode="E" name="退出"/>
+            </ButtonBar>
+        </FlashGame>
+        -->
+    </FlashGames>
+</Database>

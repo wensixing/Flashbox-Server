@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FlashGame icon="image/flashgame/201.png" id="201" name="VR特警火柴人版">
+   <Description>小游戏说明：一款火柴人射击游戏，你的目标是击倒你前面的所有敌人，瞄准敌人的头部一松击中，趁敌人倒下的时候加满子弹。游戏难度有提高，但是非常爽快。操作方法：弹药键加子弹，触屏移动控制方向，触屏射击。</Description>
+   <ButtonBar position="left">
+                <Button keycode="SPACE" name="弹药"/>
+            </ButtonBar>
+</FlashGame>
